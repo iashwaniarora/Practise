@@ -1,0 +1,4 @@
+rootProject.name = 'practise'
+include 'hibernate'
+include 'java8'
+
