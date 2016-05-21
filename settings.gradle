@@ -1,4 +1,9 @@
 rootProject.name = 'practise'
 include 'hibernate'
 include 'java8'
+include 'designpattern'
+include 'designpattern:FactoryPattern'
+findProject(':designpattern:FactoryPattern')?.name = 'FactoryPattern'
+include 'designpattern:abstractfactory'
+findProject(':designpattern:abstractfactory')?.name = 'abstractfactory'
 

@@ -2,6 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/designpattern/FactoryPattern/FactoryPattern.iml" filepath="$PROJECT_DIR$/.idea/modules/designpattern/FactoryPattern/FactoryPattern.iml" group="designpattern/FactoryPattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/designpattern/FactoryPattern/FactoryPattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/designpattern/FactoryPattern/FactoryPattern_main.iml" group="designpattern/FactoryPattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/designpattern/FactoryPattern/FactoryPattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/designpattern/FactoryPattern/FactoryPattern_test.iml" group="designpattern/FactoryPattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/designpattern/abstractfactory/abstractfactory.iml" filepath="$PROJECT_DIR$/.idea/modules/designpattern/abstractfactory/abstractfactory.iml" group="designpattern/abstractfactory" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/designpattern/abstractfactory/abstractfactory_main.iml" filepath="$PROJECT_DIR$/.idea/modules/designpattern/abstractfactory/abstractfactory_main.iml" group="designpattern/abstractfactory" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/designpattern/abstractfactory/abstractfactory_test.iml" filepath="$PROJECT_DIR$/.idea/modules/designpattern/abstractfactory/abstractfactory_test.iml" group="designpattern/abstractfactory" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/designpattern/designpattern.iml" filepath="$PROJECT_DIR$/.idea/modules/designpattern/designpattern.iml" group="designpattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/designpattern/designpattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/designpattern/designpattern_main.iml" group="designpattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/designpattern/designpattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/designpattern/designpattern_test.iml" group="designpattern" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hibernate/hibernate.iml" filepath="$PROJECT_DIR$/.idea/modules/hibernate/hibernate.iml" group="hibernate" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hibernate/hibernate_main.iml" filepath="$PROJECT_DIR$/.idea/modules/hibernate/hibernate_main.iml" group="hibernate" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hibernate/hibernate_test.iml" filepath="$PROJECT_DIR$/.idea/modules/hibernate/hibernate_test.iml" group="hibernate" />

@@ -19,12 +19,18 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="hibernate_main" target="1.5" />
-      <module name="hibernate_test" target="1.5" />
-      <module name="java8_main" target="1.5" />
-      <module name="java8_test" target="1.5" />
-      <module name="practise_main" target="1.5" />
-      <module name="practise_test" target="1.5" />
+      <module name="abstractfactory_main" target="1.5" />
+      <module name="abstractfactory_test" target="1.5" />
+      <module name="designpattern_main" target="1.5" />
+      <module name="designpattern_test" target="1.5" />
+      <module name="FactoryPattern_main" target="1.5" />
+      <module name="FactoryPattern_test" target="1.5" />
+      <module name="hibernate_main" target="1.8" />
+      <module name="hibernate_test" target="1.8" />
+      <module name="java8_main" target="1.8" />
+      <module name="java8_test" target="1.8" />
+      <module name="practise_main" target="1.8" />
+      <module name="practise_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
