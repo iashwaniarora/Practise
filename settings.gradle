@@ -15,4 +15,8 @@ include 'algorithms:sorting'
 findProject(':algorithms:sorting')?.name = 'selectionsort'
 include 'algorithms:sorting:selectionsort'
 findProject(':algorithms:sorting:selectionsort')?.name = 'selectionsort'
+include 'algorithms:sorting:bubblesort'
+findProject(':algorithms:sorting:bubblesort')?.name = 'bubblesort'
+include 'algorithms:sorting:insertionsort'
+findProject(':algorithms:sorting:insertionsort')?.name = 'insertionsort'
 
