@@ -23,4 +23,6 @@ include 'hackerank:algorithms:warmup:verybigsum'
 findProject(':hackerank:algorithms:warmup:verybigsum')?.name = 'verybigsum'
 include 'hackerank:algorithms:warmup:diagonaldifference'
 findProject(':hackerank:algorithms:warmup:diagonaldifference')?.name = 'diagonaldifference'
+include 'hackerank:algorithms:warmup:plusminus'
+findProject(':hackerank:algorithms:warmup:plusminus')?.name = 'plusminus'
 
