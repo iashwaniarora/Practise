@@ -25,4 +25,8 @@ include 'hackerank:algorithms:warmup:diagonaldifference'
 findProject(':hackerank:algorithms:warmup:diagonaldifference')?.name = 'diagonaldifference'
 include 'hackerank:algorithms:warmup:plusminus'
 findProject(':hackerank:algorithms:warmup:plusminus')?.name = 'plusminus'
+include 'hackerank:algorithms:warmup:staircase'
+findProject(':hackerank:algorithms:warmup:staircase')?.name = 'staircase'
+include 'practise:comparator'
+findProject(':practise:comparator')?.name = 'comparator'
 
