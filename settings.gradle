@@ -29,4 +29,6 @@ include 'hackerank:algorithms:warmup:staircase'
 findProject(':hackerank:algorithms:warmup:staircase')?.name = 'staircase'
 include 'practise:comparator'
 findProject(':practise:comparator')?.name = 'comparator'
+include 'practise:enum'
+findProject(':practise:enum')?.name = 'enum'
 

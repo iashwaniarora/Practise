@@ -1,3 +1,5 @@
+import java.text.SimpleDateFormat;
+import java.util.Date;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.stream.Collectors;
@@ -10,6 +12,8 @@ public class Practise {
     public static void main(String[] args) {
         Practise practise = new Practise();
         practise.run();
+        String s = "0";
+        System.out.println(new SimpleDateFormat("yyyyMMddhhmm").format(new Date()));
 
 
     }
