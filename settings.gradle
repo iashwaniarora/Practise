@@ -31,4 +31,6 @@ include 'practise:comparator'
 findProject(':practise:comparator')?.name = 'comparator'
 include 'practise:enum'
 findProject(':practise:enum')?.name = 'enum'
+include 'hackerank:algorithms:strings:reducedstring'
+findProject(':hackerank:algorithms:strings:reducedstring')?.name = 'reducedstring'
 

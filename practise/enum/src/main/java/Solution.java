@@ -7,7 +7,7 @@ public class Solution {
 
         System.out.println(SingleEnum.APPLE);
         System.out.println(DoubleEnum.Apple);
-        System.out.println(ParentEnum.ChildEnum.Apple.getValue());
+        System.out.println(ParentEnum.ChildEnum.values()[0].getValue());
         System.out.println(SingleParamEnum.Apple);
     }
 }
