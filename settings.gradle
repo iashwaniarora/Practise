@@ -33,4 +33,8 @@ include 'practise:enum'
 findProject(':practise:enum')?.name = 'enum'
 include 'hackerank:algorithms:strings:reducedstring'
 findProject(':hackerank:algorithms:strings:reducedstring')?.name = 'reducedstring'
+include 'hackerank:algorithms:strings:camelcase'
+findProject(':hackerank:algorithms:strings:camelcase')?.name = 'camelCaseString'
+include 'hackerank:algorithms:strings:panagram'
+findProject(':hackerank:algorithms:strings:panagram')?.name = 'panagram'
 
