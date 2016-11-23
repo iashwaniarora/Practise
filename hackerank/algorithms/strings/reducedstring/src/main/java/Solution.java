@@ -15,7 +15,7 @@ public class Solution {
             if(fullString.charAt(i)==fullString.charAt(i+1))
             {
               fullString= fullString.substring(0,i)+fullString.substring(i+2,fullString.length());
-                 i=-1;
+                 i=-1;;
             }
 
         }
