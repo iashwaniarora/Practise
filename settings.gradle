@@ -37,4 +37,6 @@ include 'hackerank:algorithms:strings:camelcase'
 findProject(':hackerank:algorithms:strings:camelcase')?.name = 'camelCaseString'
 include 'hackerank:algorithms:strings:panagram'
 findProject(':hackerank:algorithms:strings:panagram')?.name = 'panagram'
+include 'hackerank:algorithms:strings:marsexploration'
+findProject(':hackerank:algorithms:strings:marsexploration')?.name = 'marsexploration'
 
