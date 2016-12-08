@@ -59,5 +59,6 @@ include 'hackerank:datastructures:tree:preordertraversal'
 findProject(':hackerank:datastructures:tree:preordertraversal')?.name = 'preordertraversal'
 include 'hackerank:datastructures:tree:postordertraversal'
 findProject(':hackerank:datastructures:tree:postordertraversal')?.name = 'postordertraversal'
->>>>>>> 6173bfee97a233f1bed103f282f2ca039d919d16
+include 'leetcode:problems:1Twosum'
+findProject(':leetcode:problems:1Twosum')?.name = '1Twosum'
 
