@@ -30,14 +30,14 @@ public class TreeDS {
 
     }
 
-    public int calculateHeight(Node rootNode) {
+    /*public int calculateHeight(Node rootNode) {
         System.out.println();
         while(true)
         {
 
         }
         return 0;
-    }
+    }*/
 
     public void showPreOder(Node rootNode) {
         if (rootNode != null) {
