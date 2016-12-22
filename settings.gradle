@@ -63,4 +63,8 @@ include 'leetcode:problems:1Twosum'
 findProject(':leetcode:problems:1Twosum')?.name = '1Twosum'
 include 'practise:linkedlist_new'
 findProject(':practise:linkedlist_new')?.name = 'linkedlist_new'
+include 'leetcode:problems:zigzagsum'
+findProject(':leetcode:problems:zigzagsum')?.name = 'zigzagsum'
+include 'leetcode:problems:reverseinteger'
+findProject(':leetcode:problems:reverseinteger')?.name = 'reverseinteger'
 
