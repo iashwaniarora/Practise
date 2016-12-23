@@ -67,4 +67,6 @@ include 'leetcode:problems:zigzagsum'
 findProject(':leetcode:problems:zigzagsum')?.name = 'zigzagsum'
 include 'leetcode:problems:reverseinteger'
 findProject(':leetcode:problems:reverseinteger')?.name = 'reverseinteger'
+include 'leetcode:problems:stringtointeger'
+findProject(':leetcode:problems:stringtointeger')?.name = 'stringtointeger'
 
