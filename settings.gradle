@@ -69,4 +69,8 @@ include 'leetcode:problems:reverseinteger'
 findProject(':leetcode:problems:reverseinteger')?.name = 'reverseinteger'
 include 'leetcode:problems:stringtointeger'
 findProject(':leetcode:problems:stringtointeger')?.name = 'stringtointeger'
+include 'practise'
+findProject(':practise')?.name = 'NewJava8'
+include 'practise:newjava8'
+findProject(':practise:newjava8')?.name = 'newjava8'
 
